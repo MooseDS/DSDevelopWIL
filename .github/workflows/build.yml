@@ -28,7 +28,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Autoformat README
-        uses: MooseDS/DSDevelopWIL@1.0.0
+        uses: cflynn07/github-action-til-autoformat-readme@1.1.0
         with:
           description: |
             개발 하며 기억하고 싶은 것들을 작성하는 공간
