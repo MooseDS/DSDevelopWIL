@@ -33,4 +33,3 @@ jobs:
           description: |
             개발 하며 기억하고 싶은 것들을 작성하는 공간
           list_most_recent: 2
-          date_format: "2023 Jan 00:00"
