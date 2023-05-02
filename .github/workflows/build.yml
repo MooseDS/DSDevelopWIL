@@ -6,12 +6,10 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: ["main"]
+    branches:
+    - master
     paths-ignore:
     - README.md
-  pull_request:
-    branches: [ "main" ]
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -33,4 +31,3 @@ jobs:
           description: |
             개발 하며 기억하고 싶은 것들을 작성하는 공간
           list_most_recent: 2
-          date_format: "2023 Jan 00:00"
