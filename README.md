@@ -7,14 +7,14 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_4 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
-- [최고의 개발자란?](Develop/10xDev.md) - Mon May 15 11:59:53 2023 +0900
-- [안드로이드 클린 아키텍처 적용하기](Android/android-dagger-to-hilt-custom.md) - Tue May 2 14:33:35 2023 +0900
+- [Permission Request 관련 Tip](Android/PermissionRequest.md) - Sun May 28 16:56:57 2023 +0900
+- [RecyclerView 유용한 Tip](Android/RecyclerView.md) - Sun May 28 16:56:57 2023 +0900
 
 ### Categories
 
@@ -23,6 +23,8 @@ _4 TILs and counting..._
 - [TIL](#TIL)
 
 ### [Android](#Android)
+- [Permission Request 관련 Tip](Android/PermissionRequest.md)
+- [RecyclerView 유용한 Tip](Android/RecyclerView.md)
 - [안드로이드 클린 아키텍처 적용하기](Android/android-dagger-to-hilt-custom.md)
 - [FLOW](Android/android-flow.md)
 
