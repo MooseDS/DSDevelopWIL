@@ -7,7 +7,7 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_7 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -28,12 +28,18 @@ _7 TILs and counting..._
 - [ViewModel 관련 Tip](Android/ViewModel.md)
 - [안드로이드 클린 아키텍처 적용하기](Android/android-dagger-to-hilt-custom.md)
 - [FLOW](Android/android-flow.md)
+- [Animation 적용하기](Android/animation.md)
+- [BlueTooth 지원하기](Android/bluetooth.md)
+- [Kotlin Util Method](Android/kotlin-util.md)
+- [Paging Library](Android/paging-library.md)
 
 ### [Develop](#Develop)
 - [최고의 개발자란?](Develop/10xDev.md)
 
 ### [TIL](#TIL)
 - [TIL-2023.05.02](TIL/TIL-230502.md)
+- [TIL-2023.06.20](TIL/TIL-230620.md)
+- [Android Compose WIL](TIL/TIL-230709-Android-Compose.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
