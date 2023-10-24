@@ -7,14 +7,14 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [개발 프로세스 작성하기](Develop/Develop_process.md) - Tue Oct 24 10:48:35 2023 +0900
 - [ViewModel 관련 Tip](Android/ViewModel.md) - Wed Jun 28 20:51:07 2023 +0900
-- [Permission Request 관련 Tip](Android/PermissionRequest.md) - Sun May 28 16:56:57 2023 +0900
 
 ### Categories
 
@@ -35,6 +35,7 @@ _13 TILs and counting..._
 
 ### [Develop](#Develop)
 - [최고의 개발자란?](Develop/10xDev.md)
+- [개발 프로세스 작성하기](Develop/Develop_process.md)
 
 ### [TIL](#TIL)
 - [TIL-2023.05.02](TIL/TIL-230502.md)
